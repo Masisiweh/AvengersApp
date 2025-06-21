@@ -1,0 +1,31 @@
+.Gallery img {
+  width: 100%;
+  margin: 10px;
+}
+h4{
+  text-decoration-color: chartreuse;
+}
+#menu{
+  width: 100%;
+  height: 45px;
+  background-color: coral;
+  padding-top: 12px;
+
+}
+#menu a{
+  color: aqua;
+  font-family: cursive;
+  font-size: medium;
+  text-decoration: none;
+  font-weight: 100; 
+
+  padding-left: 15px;
+  padding-right: 15px;
+}
+#menu a:hover{
+  color: rgb(15, 158, 134);
+}
+
+div id menu{
+  text-decoration-color: blueviolet
+}
